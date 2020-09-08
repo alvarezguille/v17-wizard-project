@@ -1,0 +1,10 @@
+:host {
+  display: block;
+  padding: 1rem;
+}
+
+#button-layout {
+  width: 100%;
+  flex-wrap: wrap-reverse;
+  justify-content: flex-end;
+}
